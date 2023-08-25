@@ -1,5 +1,7 @@
 # EPROPAR (Entidad de progreso participativo)
-
+Angie Nathalia Cardenas
+Angie Tatiana Duran 
+Cristina Jerez
 
 # Situación Problema:
 
