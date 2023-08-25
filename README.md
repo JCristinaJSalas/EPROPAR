@@ -37,7 +37,7 @@ La comunidad de Alto Baudo tendra la posibilidad de expresar a las entidades sus
 
 (https://www.elnuevosiglo.com.co/articulos/01-2020-sabe-cuales-municipios-son-los-mas-pobres-del-pais )
 
-# Tecnologias relevantes
+## Tecnologias relevantes
 
 Diseño de interfaz usuario UI / Experiencia usuario UX
 Metodologia de recoleccion de datos
