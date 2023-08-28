@@ -37,10 +37,12 @@ La comunidad de Alto Baudo tendra la posibilidad de expresar a las entidades sus
 
 ### Tecnologias relevantes
 
-Diseño de interfaz usuario UI / Experiencia usuario UX
-Metodologia de recoleccion de datos
-HTML / CSS
-Framework
+- Diseño de interfaz usuario UI / Experiencia usuario UX
+- Metodologia de recoleccion de datos
+- HTML / CSS
+- Framework
+- Figma
+
 
 ## Conclusiones: 
 
