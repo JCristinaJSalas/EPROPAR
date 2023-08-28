@@ -47,6 +47,20 @@ Framework
 La plataforma <em>EPROPAR</em> es una solución innovadora que promueve la participación ciudadana y la colaboración con entidades gubernamentales en el Chocó. Con su enfoque en la recolección y calificación de opiniones, así como el apoyo financiero a iniciativas destacadas, se posiciona como un modelo ejemplar de cómo las tecnologías digitales pueden fortalecer la democracia y el progreso local. Con su espíritu sin ánimo de lucro y su compromiso con las cuestiones más apremiantes de la comunidad, <em>EPROPAR</em> demuestra el poder transformador de la participación ciudadana.
 
 ## Diseños:
+![Inicio](img/inicio.png)
+![Pasos](img/pasos.png)
+
+En esta sección principal queremos evidenciar el ganador mensual dicho en el punto 5 de las características clave de la plataforma. Podemos ver el header, el nav, las proximas fechas para que sigan participando, las opiniones principales y la indicación de pasos para los ciudadanos se puedan guiar mejor.
+
+![Opiniones](img/opiniones.png)
+
+Esta es una sub-pagina para que todos vean las opiniones de todos y puedan elegir con cual esta de acuerdo y calificarlos, para que sean el ganador mensual.
+
+![Paginas](img/final.png)
+
+Acá se pueden evidenciar dos sub-paginas, la primera es para agregar la opinión que el ciudadano va aportar y se llena un formulario para la respectiva opinión.
+
+Y la segunda sub-pagina es para darnos a conocer como entidad, nuestro objetivo y las entidades, empresas o fundaciones con las que trabajamos.
 
 
 ### Fuentes Utilizadas: 
