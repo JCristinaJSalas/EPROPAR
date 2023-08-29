@@ -49,20 +49,47 @@ La comunidad de Alto Baudo tendra la posibilidad de expresar a las entidades sus
 La plataforma <em>EPROPAR</em> es una solución innovadora que promueve la participación ciudadana y la colaboración con entidades gubernamentales en el Chocó. Con su enfoque en la recolección y calificación de opiniones, así como el apoyo financiero a iniciativas destacadas, se posiciona como un modelo ejemplar de cómo las tecnologías digitales pueden fortalecer la democracia y el progreso local. Con su espíritu sin ánimo de lucro y su compromiso con las cuestiones más apremiantes de la comunidad, <em>EPROPAR</em> demuestra el poder transformador de la participación ciudadana.
 
 ## Diseños:
+
+Modelo Desktop
+==
 ![Inicio](img/inicio.png)
 ![Pasos](img/pasos.png)
 
-En esta sección principal queremos evidenciar el ganador mensual dicho en el punto 5 de las características clave de la plataforma. Podemos ver el header, el nav, las proximas fechas para que sigan participando, las opiniones principales y la indicación de pasos para los ciudadanos se puedan guiar mejor.
+En esta sección principal se puede evidenciar los ganadores mensuales como se había dicho en el punto 5 de las <em>características clave de la plataforma</em>. Podemos ver el header que indica el principal objetivo de la página y un título prometedor,también esta el nav como barra superior con tres secciones o sub-páginas y a la izquierda el logo de nuestra entidad. En esa misma página se ven las proximas fechas para que los ciudadanos sigan participando opinando y calificando,también se ven las opiniones principales y por último, la indicación de pasos para que los ciudadanos se puedan guiar mejor y participar activamente de la mejor forma.
 
 ![Opiniones](img/opiniones.png)
 
-Esta es una sub-pagina para que todos vean las opiniones de todos y puedan elegir con cual esta de acuerdo y calificarlos, para que sean el ganador mensual.
+Esta es una sub-página para que todos vean las opiniones de otras personas y puedan elegir con cual estan de acuerdo y darle "me gusta", para que sea esa sección (según el tema) el ganador mensual.
 
 ![Paginas](img/final.png)
 
 Acá se pueden evidenciar dos sub-paginas, la primera es para agregar la opinión que el ciudadano va aportar y se llena un formulario para la respectiva opinión.
 
-Y la segunda sub-pagina es para darnos a conocer como entidad, nuestro objetivo y las entidades, empresas o fundaciones con las que trabajamos.
+Y la segunda sub-pagina es para darnos a conocer como entidad, nuestro propósito, el proceso de selección y las entidades, empresas o fundaciones con las que trabajamos, además de proporcionar nuestro contacto para mayor información o en para dar lugar a casos extraordinarios.
+
+Modelo Mobile
+==
+![Inicio](img/main.png)
+![Inicio](img/main2.png)
+![Inicio](img/main3.png)
+![Inicio](img/main4.png)
+![Inicio](img/main5.png)
+
+Sección que se dio a mostrar anteriormente es del inicio de la página, versión más pequeña, practicamente la descripción de las imágenes es la misma información de un modelo desktop.
+
+![Opinion](img/opinion.png)
+
+Sección formulario.
+
+![Calificar](img/calificar.png)
+![Calificar](img/calificar2.png)
+
+Sección de puntaje por medio de "likes".
+
+![Nosotros](img/us.png)
+![Nosotros](img/us2.png)
+
+Sección informativa y representativa.
 
 
 ### Fuentes Utilizadas: 
