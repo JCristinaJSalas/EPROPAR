@@ -19,6 +19,72 @@
             </ul>
         </nav>
     </header>
-    <h1>HOLA</h1>
+    <main>
+        <div class="section_1">
+            <h1>Danos tu opinion</h1>
+            <h3>REGLAS:</h3>
+            <ol>
+                <li>Se debe ser respetuoso al momento de expresar tu opinión.</li>
+                <li>Trata de ser conciso con tu descripción.</li>
+                <li>Selecciona muy bien el tema que asocias con tu opinión.</li>
+            </ol>
+        </div>
+        <div class="section_2">
+            <form action="omg">
+                <fieldset>
+                <legend align="center">Formulario</legend>
+                    <label for="nombre">Nombres:<br><input id="nombre" type="text" placeholder="Ej: Juan Luis" required autofocus ></label>
+                    <br>
+                    <br>
+                    <label for="apellido">Apellidos:<br><input id="apellido" type="text" placeholder="Ej: Ramirez Suarez" required></label>
+                    <br>
+                    <br>
+                    <select name="documento" required>
+                        <label for="documento">
+                            <option value="value0" selected>--Selecciona</option>
+                            <option value="value1">Cédula de ciudadanía</option>
+                            <option value="value2">Tarjeta de extranjería</option>
+                            <option value="value3">Tarjeta de identidad</option>
+                        </label>
+                    </select>
+                    <br>
+                    <br>
+                    <label for="numero">Numero del documento:<br><input id="numero" type="number" placeholder="Ej: 1098457625" required></label>
+                    <br>
+                    <br>
+                    <label for="celular">Numero de celular:<br><input id="celular" type="number" placeholder="Ej: 302-xxx-xxxx" required></label>
+                    <br>
+                    <br>
+                    <select name="tema" required>
+                        <label for="tema">
+                            <option value="value0" selected>--Selecciona</option>
+                            <option value="value1">Infraestructura</option>
+                            <option value="value2">Seguridad</option>
+                            <option value="value3">Alimentación</option>
+                            <option value="value4">Salud Mental</option>
+                            <option value="value5">Educación</option>
+                        </label>
+                    </select>
+                    <br>
+                    <br>
+                    <label for="direccion">Dirección:<br><input id="direccion" type="text" placeholder="Ej: Calle 58 #36-14" required></label>
+                    <br>
+                    <br>
+                    <label for="opinion">Describe tu problema:</label>
+                    <br>
+                    <textarea cols="40" rows="8" name="opinion" placeholder="Toda opinión es importante."></textarea>
+                    <br>
+                    <br>
+                    <button type="submit">ENVIAR</button>
+                    <button type="reset">LIMPIAR</button>
+                </fieldset>
+            </form>
+        </div>
+    </main>
+    <footer>
+        <h2><center>EPROPAR</center></h2>
+        <p class="footer2"><center>Creado por Angie Cardenas, Angie Duran, Cristina Salas<br>Educational Webside</center></p>
+        <p class="footer3"><center>© Todos los derechos reservados, 2023.</center></p>
+    </footer>
 </body>
 </html>
