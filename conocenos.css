@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Darker+Grotesque:wght@400;800&family=Poppins&display=swap');
 
 html{
+    min-height: 100%;
     position: relative;
 }
+
 footer{
     background-color: #8DB286;
     bottom: 0;
@@ -10,7 +12,7 @@ footer{
     width: 100%;
     height: 150px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
     font-family: 'Be Vietnam Pro', sans-serif;
 }
 footer h2{
