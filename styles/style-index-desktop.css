@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Darker+Grotesque:wght@400;800&family=Poppins&display=swap");
+
+:root {
+  --fuente-logo: "Be Vietnam Pro", sans-serif;
+  --fuente-parrafo: "Darker Grotesque", sans-serif;
+  --fuente-titulo: "Poppins", sans-serif;
+  --color-principal: #8db286;
+}
+
+/* css de la barra de navegacion para escritorio*/
+
+header .navbar {
+  flex-wrap: nowrap;
+}
+#toggler,
+.navbar label .close,
+.navbar label .hamburguesa {
+  display: none;
+}
+
+header .navbar .menu {
+  max-height: 100%;
+  width: 50%;
+}
+header .navbar .menu .list {
+  flex-direction: row;
+  justify-content: space-around;
+}
+header .navbar .menu .list a {
+    font-size: 1.3rem;
+  }

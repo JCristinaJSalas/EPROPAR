@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Darker+Grotesque:wght@400;800&family=Poppins&display=swap');
+
+
+
+
 footer{
     background-color: #8DB286;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+footer h2{
+    font-size: xx-large;
+}
+
+footer .footer2{
+    font-size: small;
+
+}
+footer .footer3{
+    font-size: large;
 }
