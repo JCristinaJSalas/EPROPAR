@@ -1,8 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&family=Darker+Grotesque:wght@400;800&family=Poppins&display=swap');
 
+*{
+    text-align: center;
+}
+
+
 html{
     min-height: 100%;
     position: relative;
+}
+main{
+    padding-top: 6%;
+    margin: 7%;
+}
+
+div h2{
+    color:#8DB286;
+    text-align: start;
+    padding-left: 20px;
+}
+
+div hr{
+    align-items: start;
+    width: 316px;
+    color: #8DB286;
+    
+}
+
+.somos img{
+    width: 287px;
+    height: 278px;
+}
+
+.entidades img{
+    width: 335px;
+    height: 335px;
 }
 
 footer{
